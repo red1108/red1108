@@ -1,7 +1,7 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Mingyu Lee </h1>
 
-<center>[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=red1108)](https://solved.ac/red1108)</center>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=red1108)](https://solved.ac/red1108)
 
 <p align="center">
   <em>
