@@ -1,7 +1,9 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Mingyu Lee </h1>
 
-<img src="http://mazassumnida.wtf/api/generate_badge?boj=red1108" align = "center">
+<p align = "center">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=red1108" align = "center">
+</p>
 
 
 <p align="center">
