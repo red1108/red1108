@@ -8,7 +8,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Mingyu Lee a <b>first year</b> undergraduate from <b>Seoul National University</b>,  <br>
+    Hello, I am Mingyu Lee a <b>second year</b> undergraduate from <b>Seoul National University</b>,  <br>
     I'm studying about <b>Algorithm</b>, <b>Machine Learning</b> and <b>Web Application</b>
   </em> 
   <br>
