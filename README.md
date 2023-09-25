@@ -14,5 +14,5 @@
   <br>
 </p>
 
-- 🌱 I’m currently learning <b>Algorithm<b>, <b>Machine Learning and Web Development</b>
+- 🌱 I’m currently learning <b>Quantum Computation<b>, <b>Algorithm<b>, <b>Machine Learning</b> and <b>Quantative Research</b>
 - 📫 How to reach me: minkyu.lee65@gmail.com
