@@ -9,8 +9,8 @@
 <p align="center">
   <em>
     Hello, I am Mingyu Lee a <b>second year</b> undergraduate from <b>Seoul National University</b>,  <br>
-    I'm studying about <b>Algorithm</b>, <b>Machine Learning</b> and <b>Web Application</b>
-  </em> 
+    I'm studying about <b>Quantum computation</b>, <b>Algorithm</b>, <b>Machine Learning</b> and <b>Web Application</b>
+  </em>
   <br>
 </p>
 
