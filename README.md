@@ -6,11 +6,12 @@
 
 <p align="center">
   <em>
-    Hello, I am Mingyu Lee, a <b>third-year</b> undergraduate from <b>Seoul National University</b>, currently on a leave of absence for military service. <br>
-    I'm studying <b>Quantum computation</b>, <b>Algorithm</b>, <b>Machine Learning</b>, and <b>Web Application</b>.
+    Hello, I am Mingyu Lee, a <b>forth-year</b> undergraduate from <b>Seoul National University</b>, currently an exchange student at UC Davis. <br>
+    I'm studying <b>Quantum computation</b>, <b>Quant Investment</b>, <b>Algorithm</b>, and <b>Machine Learning</b>.
   </em>
   <br>
 </p>
 
-- 🌱 I’m currently learning <b>Quantum Computation</b>, <b>Algorithm</b>, <b>Machine Learning</b>, and <b>Quantitative Research</b>
+- 🌱 I’m currently learning <b>Quantum computation</b>, <b>Quant Investment</b>, <b>Algorithm</b>, and <b>Machine Learning</b>.
 - 📫 How to reach me: minkyu.lee65@gmail.com | red1108@snu.ac.kr
+- Last update: Feb 2026
