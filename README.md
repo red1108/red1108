@@ -10,6 +10,7 @@ I'm undergraduate student at **Seoul National University**, about to graduate so
 ## Achievements
 
 * **ICPC Seoul Regional** — 8th Place (2025) · 14th Place (2023)
+* **Quantum Hackathon Korea** — 1st Place, Ministry of Science and ICT Minister's Award (2023)
 * **Samsung Collegiate Programming Challenge** — 5th Prize (2022)
 * **Codeforces**
 [![Codeforces Rating](https://codeforces-stats-vlx.vercel.app/api/graph?username=red1108)](https://codeforces.com/profile/red1108)
